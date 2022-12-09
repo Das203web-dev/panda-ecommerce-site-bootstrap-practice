@@ -1,0 +1,67 @@
+.search-bar {
+    width: auto;
+    height: 30px;
+    text-align: center;
+    justify-content: center;
+    background-color:
+        #F1F1F1;
+
+}
+
+.image-carousel-section {
+    background-color: #FEEAE9;
+}
+
+.span-text {
+    color: #FF136F;
+}
+
+.span-price-btn {
+    background-color: #FF136F;
+    color: white;
+    text-transform: uppercase;
+}
+
+/* -------------------------------------------------------  */
+
+/* --------------------------
+categories section style start
+---------------------------- */
+
+.category-div-1 {
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+
+.category-div-2 {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+
+.category-div-3 {
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+
+/* --------------------------
+categories section style end
+---------------------------- */
+
+/* -------------------------------------------------------  */
+
+/*------------------------------
+ shoe section style start here 
+----------------------------- */
+
+.shoe-section {
+    background-color: #F4F4F4;
+}
+
+.see-all-btn {
+    color: #FF9D00;
+}
+
+/*------------------------------
+ shoe section style start here 
+----------------------------- */
+
+.contact-form {
+    background-color: #FEEAE9;
+}
